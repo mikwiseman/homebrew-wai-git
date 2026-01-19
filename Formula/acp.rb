@@ -2,7 +2,7 @@ class Acp < Formula
   desc "AI-powered git add, commit, and push in one command"
   homepage "https://github.com/mikwiseman/wai-git"
   url "https://github.com/mikwiseman/wai-git/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "9548af412a68e7b40b5d0c4a18572b90ff5e6b8cacf2ca5f6f8fe5ea2b74a08f"
   license "MIT"
 
   depends_on "curl"
